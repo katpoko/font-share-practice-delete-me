@@ -1,3 +1,6 @@
+@import url(sharpie.css)
+
 body {
     background: #44d25e;
+    font-family: 'Sharpie-Variable';
 }
